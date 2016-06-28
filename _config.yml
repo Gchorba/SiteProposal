@@ -40,6 +40,9 @@ colors:
   red:       '#E81123'
   magenta:   '#E40098'
   teal:      '#008272'
+  ionicred:       '#EC232B'
+  ionicgrey:      '#BFBDBE'
+  ionicdarkgrey:   '#4c4c4c'
   
 
 kramdown:
