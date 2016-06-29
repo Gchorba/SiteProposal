@@ -42,10 +42,7 @@ colors:
   teal:      '#008272'
   ionicred:       '#EC232B'
   ionicgrey:      '#BFBDBE'
-  ionicdarkgrey:   '#4c4c4c'
-  primaryred: '#c32a2a'
-primaryreddark: '#8c1e1e'
-primaryredextradark:'#6E0000'
+  
 
 kramdown:
   auto_ids:  false
