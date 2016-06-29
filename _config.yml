@@ -43,10 +43,9 @@ colors:
   ionicred:       '#EC232B'
   ionicgrey:      '#BFBDBE'
   ionicdarkgrey:   '#4c4c4c'
-  primary-red-light:       '#9B4848'
-primary-red:             '#c32a2a'
-primary-red-dark:        '#8c1e1e'
-primary-red-extra-dark:  '#6E0000'
+  primaryred: '#c32a2a'
+primaryreddark: '#8c1e1e'
+primaryredextradark:'#6E0000'
 
 kramdown:
   auto_ids:  false
